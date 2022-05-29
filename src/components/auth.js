@@ -1,6 +1,6 @@
 import { useState, useContext, createContext } from "react";
 const AuthContext = createContext(null);
-
+import React from "react";
 export const AuthProvider = ({ children }) => {
   const [registration, setRegistration] = useState(null);
   const [firstName, setfirstName] = useState(null);
