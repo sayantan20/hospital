@@ -5,7 +5,6 @@ import { Nav, Navbar, NavDropdown } from "react-bootstrap";
 //import pharmacyImage from "../../images/pharmacy-logo.png";
 import carouselOne from "../../images/carousel-one.jpg";
 import Image from "react-bootstrap/Image";
-
 const Home = () => {
   return (
     <div className="home-page">
