@@ -15,8 +15,8 @@
   "runtime~main.js.map": "/hospital/static/js/runtime~main.974c2aea.js.map",
   "static/media/Home.css": "/hospital/static/media/carousel-one.072bc2ec.jpg",
   "static/media/profile.png": "/hospital/static/media/profile.4b1bb228.png",
-  "static/css/main.bd2d65f0.chunk.css.map": "/hospital/static/css/main.bd2d65f0.chunk.css.map",
   "static/css/1.493bf900.chunk.css.map": "/hospital/static/css/1.493bf900.chunk.css.map",
+  "static/css/main.bd2d65f0.chunk.css.map": "/hospital/static/css/main.bd2d65f0.chunk.css.map",
   "index.html": "/hospital/index.html",
   "precache-manifest.6c709f04b7092dc54d2ada82a01a447a.js": "/hospital/precache-manifest.6c709f04b7092dc54d2ada82a01a447a.js",
   "service-worker.js": "/hospital/service-worker.js"
