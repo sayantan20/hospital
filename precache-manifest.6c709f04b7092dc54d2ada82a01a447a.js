@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e62544d7590e02ff035f",
+    "revision": "6e67db79b2ccc8d6d2fa",
     "url": "/hospital/static/css/main.bd2d65f0.chunk.css"
   },
   {
-    "revision": "e62544d7590e02ff035f",
-    "url": "/hospital/static/js/main.e62544d7.chunk.js"
+    "revision": "6e67db79b2ccc8d6d2fa",
+    "url": "/hospital/static/js/main.6e67db79.chunk.js"
   },
   {
     "revision": "ccc199c1a1b10ecd45b2",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/hospital/static/media/profile.4b1bb228.png"
   },
   {
-    "revision": "54898a13988285fdd510534ce6d92182",
+    "revision": "bdab492c6ddab5998ebf00ca2be858c2",
     "url": "/hospital/index.html"
   }
 ];

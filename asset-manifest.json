@@ -1,7 +1,7 @@
 {
   "main.css": "/hospital/static/css/main.bd2d65f0.chunk.css",
-  "main.js": "/hospital/static/js/main.e62544d7.chunk.js",
-  "main.js.map": "/hospital/static/js/main.e62544d7.chunk.js.map",
+  "main.js": "/hospital/static/js/main.6e67db79.chunk.js",
+  "main.js.map": "/hospital/static/js/main.6e67db79.chunk.js.map",
   "static/css/1.493bf900.chunk.css": "/hospital/static/css/1.493bf900.chunk.css",
   "static/js/1.ccc199c1.chunk.js": "/hospital/static/js/1.ccc199c1.chunk.js",
   "static/js/1.ccc199c1.chunk.js.map": "/hospital/static/js/1.ccc199c1.chunk.js.map",
@@ -18,6 +18,6 @@
   "static/css/main.bd2d65f0.chunk.css.map": "/hospital/static/css/main.bd2d65f0.chunk.css.map",
   "static/css/1.493bf900.chunk.css.map": "/hospital/static/css/1.493bf900.chunk.css.map",
   "index.html": "/hospital/index.html",
-  "precache-manifest.bfbb5a1dd150962b10bdf228705588d5.js": "/hospital/precache-manifest.bfbb5a1dd150962b10bdf228705588d5.js",
+  "precache-manifest.6c709f04b7092dc54d2ada82a01a447a.js": "/hospital/precache-manifest.6c709f04b7092dc54d2ada82a01a447a.js",
   "service-worker.js": "/hospital/service-worker.js"
 }
