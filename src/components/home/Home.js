@@ -2,7 +2,7 @@ import React from "react";
 import "bootstrap/dist/css/bootstrap.css";
 import "./Home.css";
 import { Nav, Navbar, NavDropdown } from "react-bootstrap";
-import pharmacyImage from "../../images/pharmacy-logo.png";
+//import pharmacyImage from "../../images/pharmacy-logo.png";
 import carouselOne from "../../images/carousel-one.jpg";
 import Image from "react-bootstrap/Image";
 

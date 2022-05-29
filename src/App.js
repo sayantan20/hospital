@@ -1,6 +1,6 @@
 import "./App.css";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import React, { Component } from "react";
+import React from "react";
 import Home from "./components/home/Home";
 import { AuthProvider } from "./components/auth";
 import Investigation from "./components/OPD/Investigation";
